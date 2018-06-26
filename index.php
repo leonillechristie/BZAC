@@ -24,8 +24,8 @@
                             <li><a href="ui.html">UI Elements</a></li>
                             <li><a href="table.html">Data Tables</a></li>
                             <li><a href="forms.html">Forms</a></li>
-                             <li><a href="login.php">Login</a></li>
                             <li><a href="blank.html">Account</a></li>
+                            <li><a href="login.php">Login</a></li>
 
                         </ul>
                     </div>
@@ -62,7 +62,22 @@
 
                 </div>
             </div>
-        
+
+            <div class="row" >
+                <h4 style="position:  absolute; left: 190px;">Grade Level: </h4>
+                <select class="form-control" style="width:  200px; margin-left:  120px; margin-bottom:  10px;">
+                    <option>Nursery</option>
+                    <option>Kinder 1</option>
+                    <option>Kinder 2</option>
+                    <option>Grade 1</option>
+                    <option>Grade 2</option>
+                    <option>Grade 3</option>
+                    <option>Grade 4</option>
+                    <option>Grade 5</option>
+                    <option>Grade 6</option>
+                </select>
+            </div>
+            
             <div class="table-responsive">
                 <table class="table table-striped table-bordered table-hover">
                     <thead>
