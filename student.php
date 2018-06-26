@@ -228,7 +228,7 @@
                             </div>
                         </div>
                         <div style="margin-top: 400px; margin-left: 975px;">
-                            <a href="login.php" class="btn btn-danger"><h4>Update Information</h4></a>&nbsp;
+                            <a href="#" class="btn btn-danger"><h4>Update Information</h4></a>&nbsp;
                         </div>
                     </div>
                 </div>
