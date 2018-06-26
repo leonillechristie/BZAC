@@ -15,27 +15,6 @@
     <link href="assets/css/style.css" rel="stylesheet" />
 </head>
 <body>
-    
-   <!--  <section class="menu-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="navbar-collapse collapse ">
-                        <ul id="menu-top" class="nav navbar-nav navbar-right">
-                            <li><a href="index.php">Dashboard</a></li>
-                            <li><a href="ui.html">UI Elements</a></li>
-                            <li><a href="table.html">Data Tables</a></li>
-                            <li><a href="forms.html">Forms</a></li>
-                            <li><a class="menu-top-active" href="login.php">Login</a></li>
-                            <li><a href="blank.html">Account</a></li>
-
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section> -->
 
     <div class="navbar navbar-inverse set-radius-zero">
         <div class="container" style="height: 140px;">
