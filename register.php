@@ -40,7 +40,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h4 class="page-head-line">Register Account Page </h4>
+                    <h4 class="page-head-line"><span class="glyphicon glyphicon-edit"></span> Register Account Page </h4>
 
                 </div>
 
@@ -92,22 +92,10 @@
             </div>
         </div>
     </div>
-    <!-- CONTENT-WRAPPER SECTION END-->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    &copy; 2018 BZAC | Web Portal</a>
-                </div>
-
-            </div>
-        </div>
-    </footer>
-    <!-- FOOTER SECTION END-->
-    <!-- JAVASCRIPT AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
-    <!-- CORE JQUERY SCRIPTS -->
+   
+    <?php include 'footer.php' ?>
+  
     <script src="assets/js/jquery-1.11.1.js"></script>
-    <!-- BOOTSTRAP SCRIPTS  -->
     <script src="assets/js/bootstrap.js"></script>
 </body>
 </html>

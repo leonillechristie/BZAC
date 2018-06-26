@@ -40,18 +40,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h4 class="page-head-line">Login Page </h4>
+                    <h4 class="page-head-line"><span class="glyphicon glyphicon-hand-up"></span> Login Page </h4>
 
                 </div>
 
             </div>
             <div class="row" style="padding-left: 400px;">
                 <div class="col-md-6">
-                     <label>Enter Username </label>
-                        <input type="text" class="form-control" />
-                        <label>Enter Password</label>
-                        <input type="password" class="form-control" />
-                        <div style="margin-top: 15px;margin-left: 270px;">
+                    <label>Enter Username </label>
+                    <input type="text" class="form-control" />
+                    <label>Enter Password</label>
+                    <input type="password" class="form-control" />
+                    <div style="margin-top: 15px;margin-left: 270px;">
                         <a href="index.php" class="btn btn-danger"><span class="glyphicon glyphicon-user"></span> &nbsp;Log In </a>&nbsp;
                     </div>
                 </div>
@@ -63,22 +63,10 @@
             </div>
         </div>
     </div>
-    <!-- CONTENT-WRAPPER SECTION END-->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    &copy; 2018 BZAC | Web Portal</a>
-                </div>
-
-            </div>
-        </div>
-    </footer>
-    <!-- FOOTER SECTION END-->
-    <!-- JAVASCRIPT AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
-    <!-- CORE JQUERY SCRIPTS -->
+    
+    <?php include 'footer.php' ?>
+  
     <script src="assets/js/jquery-1.11.1.js"></script>
-    <!-- BOOTSTRAP SCRIPTS  -->
     <script src="assets/js/bootstrap.js"></script>
 </body>
 

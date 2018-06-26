@@ -39,7 +39,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h4 class="page-head-line">Student List</h4>
+                    <h4 class="page-head-line"><span class="glyphicon glyphicon-th-list"></span> Student List</h4>
 
                 </div>
             </div>
@@ -80,7 +80,7 @@
                             <td>Gumela</td>
                             <td>Kinder 2</td>
                             <td class="text-center"> 
-                                <a href="#"  class="btn btn-xs btn-danger">View</a> 
+                                <a href="student.php"  class="btn btn-xs btn-danger">View</a> 
                             </td>
                         </tr>
                         <tr>
@@ -90,7 +90,7 @@
                             <td>Gumela</td>
                             <td>Kinder 2</td>
                             <td class="text-center"> 
-                                <a href="#"  class="btn btn-xs btn-danger">View</a> 
+                                <a href="student.php"  class="btn btn-xs btn-danger">View</a> 
                             </td>
                         </tr>
                         <tr>
@@ -100,7 +100,7 @@
                             <td>Gumela</td>
                             <td>Kinder 2</td>
                             <td class="text-center"> 
-                                <a href="#"  class="btn btn-xs btn-danger">View</a> 
+                                <a href="student.php"  class="btn btn-xs btn-danger">View</a> 
                             </td>
                         </tr>
                         <tr>
@@ -110,7 +110,7 @@
                             <td>Gumela</td>
                             <td>Kinder 2</td>
                             <td class="text-center"> 
-                                <a href="#"  class="btn btn-xs btn-danger">View</a> 
+                                <a href="student.php"  class="btn btn-xs btn-danger">View</a> 
                             </td>
                         </tr>
                             
@@ -120,16 +120,7 @@
         </div>
     </div>
 
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    &copy; 2018 BZAC | Web Portal</a>
-                </div>
-
-            </div>
-        </div>
-    </footer>
+    <?php include 'footer.php' ?>
 
     <script src="assets/js/jquery-1.11.1.js"></script>
     <script src="assets/js/bootstrap.js"></script>
